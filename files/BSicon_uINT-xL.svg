@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500">
+<title>uINT-xL</title>
+<path d="M 250,0 V 500" stroke="#003399" stroke-width="100" />
+<g stroke-width="50" fill="white">
+ <rect x="275" y="125" width="250" height="250" stroke="#aaa" />
+ <circle cx="250" cy="250" r="125" stroke="black" />
+</g>
+</svg>
